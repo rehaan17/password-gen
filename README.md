@@ -1,5 +1,7 @@
 # Password Generator API and Integrating an open-source third-party API
 
+## Password Generator API 
+
 Welcome to the Password Generator API! This API allows you to generate secure passwords with customizable parameters.
 
 ## Description
