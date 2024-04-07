@@ -151,11 +151,10 @@ Additional documentation for API endpoints can be found within the codebase.
 ## APIs Used
 
 - **RapidAPI**
-  - **Key:** `<RAPIDAPI_KEY>`
+  - **Key:** You need to sign up on [RapidAPI](https://rapidapi.com/) and obtain the key.
   - **Host:** `<RAPIDAPI_HOST>`
   - **Endpoints:** `/countries` and `/statistics`
 
 ## Authors
 
 - [Baha Rehaan](https://github.com/rehaan17) - baha.rehaan17@gmail.com
-```
