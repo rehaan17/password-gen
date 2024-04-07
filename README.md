@@ -1,5 +1,3 @@
-# password-gen
-
 # Password Generator API
 
 Welcome to the Password Generator API! This API allows you to generate secure passwords with customizable parameters.
