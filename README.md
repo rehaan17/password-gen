@@ -1,6 +1,3 @@
-Here's the corrected README.md file:
-
-```markdown
 # Password Generator API and Integrating an open-source third-party API
 
 ## Table of Contents
